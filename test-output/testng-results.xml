@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12844" started-at="2019-11-04T17:34:25Z" finished-at="2019-11-04T17:34:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12844" started-at="2019-11-04T17:34:25Z" finished-at="2019-11-04T17:34:38Z">
+      <class name="DriverFactory.DriverScript">
+        <test-method status="PASS" signature="launch()[pri:0, instance:DriverFactory.DriverScript@101b7af]" name="launch" is-config="true" duration-ms="7806" started-at="2019-11-04T23:04:25Z" finished-at="2019-11-04T23:04:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="statrtTest()[pri:0, instance:DriverFactory.DriverScript@101b7af]" name="statrtTest" duration-ms="2702" started-at="2019-11-04T23:04:33Z" finished-at="2019-11-04T23:04:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statrtTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:DriverFactory.DriverScript@101b7af]" name="teardown" is-config="true" duration-ms="2284" started-at="2019-11-04T23:04:36Z" finished-at="2019-11-04T23:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- DriverFactory.DriverScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

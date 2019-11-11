@@ -1,0 +1,14 @@
+<suite name="webtour">
+<test name="Result1">
+<classes>
+<class name="pack.Demo2">
+</class>
+</classes>
+</test>
+<test name="Result2">
+<classes>
+<class name="pack.Demo3">
+</class>
+</classes>
+</test>
+</suite>

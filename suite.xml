@@ -1,0 +1,10 @@
+<suite name="Ranga">
+<test name="Result">
+<classes>
+<class name="pack.Demo2">
+</class>
+<class name="pack.Demo3">
+</class>
+</classes>
+</test>
+</suite>
